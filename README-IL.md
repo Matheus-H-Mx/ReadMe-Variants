@@ -50,7 +50,7 @@
     .
    <a href="/docs/readme-IL.md">עִברִית</a>
     .
-   <a href="/docs/readme_RU.md">עִברִית</a>
+   <a href="/docs/readme-RU.md">Россия/a>
   </p>
  
   
