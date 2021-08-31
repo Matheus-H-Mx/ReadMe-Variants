@@ -40,17 +40,17 @@
   </p> 
  <p align="left">
     ·
-    <a href="/docs/readme-CN.md">简体中文</a>
+    <a href="https://github.com/Matheus-H-Mx/ReadMe-Variants/blob/main/README-CN.md">简体中文</a>
     ·
-    <a href="/docs/readme-JP.md">日本語</a>
+    <a href="https://github.com/Matheus-H-Mx/ReadMe-Variants/blob/main/README-JP.md">日本語</a>
     ·
-    <a href="/docs/readme-KOR.md">한국어</a>
+    <a href="https://github.com/Matheus-H-Mx/ReadMe-Variants/blob/main/README-KOR.md">한국어</a>
     .
-   <a href="/docs/readme-NP.md">नेपाली</a>
+   <a href="https://github.com/Matheus-H-Mx/ReadMe-Variants/blob/main/README-Ni.md">नेपाली</a>
     .
-   <a href="/docs/README-IL.md">עִברִית</a>
-    .
-   <a href="/docs/readme-RU.md">Россия</a>
+   <a href="https://github.com/Matheus-H-Mx/ReadMe-Variants/blob/main/README-IL.md">עִברִית</a>
+   .
+   <a href="https://github.com/Matheus-H-Mx/ReadMe-Variants/blob/main/README-RU.md">Россия</a>
   </p>
  
   
