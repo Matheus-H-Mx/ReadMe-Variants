@@ -49,6 +49,8 @@
    <a href="/docs/readme_np.md">नेपाली</a>
     .
    <a href="/docs/readme_il.md">עִברִית</a>
+   .
+   <a href="/docs/readme-RU.md">Россия</a>
   </p>
  
   
