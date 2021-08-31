@@ -40,15 +40,17 @@
   </p> 
  <p align="left">
     ·
-    <a href="/docs/readme_cn.md">简体中文</a>
+    <a href="/docs/readme-CN.md">简体中文</a>
     ·
-    <a href="/docs/readme_ja.md">日本語</a>
+    <a href="/docs/readme-JP.md">日本語</a>
     ·
-    <a href="/docs/readme_kr.md">한국어</a>
+    <a href="/docs/readme-KOR.md">한국어</a>
     .
-   <a href="/docs/readme_np.md">नेपाली</a>
+   <a href="/docs/readme-NP.md">नेपाली</a>
     .
-   <a href="/docs/readme_il.md">עִברִית</a>
+   <a href="/docs/readme-IL.md">עִברִית</a>
+    .
+   <a href="/docs/readme_RU.md">עִברִית</a>
   </p>
  
   
