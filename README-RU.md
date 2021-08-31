@@ -40,19 +40,19 @@
   </p> 
  <p align="left">
     ·
-    <a href="/docs/readme_cn.md">简体中文</a>
+    <a href="https://github.com/Matheus-H-Mx/ReadMe-Variants/blob/main/README-CN.md">简体中文</a>
     ·
-    <a href="/docs/readme_ja.md">日本語</a>
+    <a href="https://github.com/Matheus-H-Mx/ReadMe-Variants/blob/main/README-JP.md">日本語</a>
     ·
-    <a href="/docs/readme_kr.md">한국어</a>
+    <a href="https://github.com/Matheus-H-Mx/ReadMe-Variants/blob/main/README-KOR.md">한국어</a>
     .
-   <a href="/docs/readme_np.md">नेपाली</a>
+   <a href="https://github.com/Matheus-H-Mx/ReadMe-Variants/blob/main/README-Ni.md">नेपाली</a>
     .
-   <a href="/docs/readme_il.md">עִברִית</a>
+   <a href="https://github.com/Matheus-H-Mx/ReadMe-Variants/blob/main/README-IL.md">עִברִית</a>
    .
-   <a href="/docs/readme-RU.md">Россия</a>
+   <a href="https://github.com/Matheus-H-Mx/ReadMe-Variants/blob/main/README-RU.md">Россия</a>
   </p>
- 
+  
   
 <div> 
   <a href="https://encurtador.com.br/fhoqS" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
